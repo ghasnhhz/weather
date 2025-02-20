@@ -1,0 +1,26 @@
+.outer-div {
+  height: 100vh; /*vh stands for viewport height, meaning it’s based on the screen size.*/
+  width: 100%;
+  background-color: rgb(52, 103, 108);
+}
+.city {
+  padding: 8px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 50px;
+  color: black;
+  border: none;
+}
+.button-element {
+  padding: 8px;
+  font-size: 20px;
+  border: none;
+  background-color: rgb(138, 196, 235);
+  cursor: pointer;
+  margin-left: 50px;
+}
+.p-element {
+  font-size: 25px;
+  margin-left: 50px;
+  margin-top: 40px;
+}
